@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShopping.WebApi", "OnlineShopping.WebApi\OnlineShopping.WebApi.csproj", "{117C19BB-4E5F-4D46-ADA9-EAD14247AAE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShopping.WebApi", "OnlineShopping.WebApi\OnlineShopping.WebApi.csproj", "{E4E348E3-4FE6-4274-B204-2C674286D53D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{117C19BB-4E5F-4D46-ADA9-EAD14247AAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{117C19BB-4E5F-4D46-ADA9-EAD14247AAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{117C19BB-4E5F-4D46-ADA9-EAD14247AAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{117C19BB-4E5F-4D46-ADA9-EAD14247AAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E348E3-4FE6-4274-B204-2C674286D53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E348E3-4FE6-4274-B204-2C674286D53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E348E3-4FE6-4274-B204-2C674286D53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E348E3-4FE6-4274-B204-2C674286D53D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
